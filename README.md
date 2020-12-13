@@ -1,3 +1,4 @@
+http://147.175.121.202/~xchernov/noz4rev/
 # Zadanie cvičenia:
 Vytvorte jednoduchú stránku, ktorá bude obsahovať :
 2 textové polia s popismi, kde sa budú dať zadať celé čísla od 1 po 9. Ošetrite, že iné vstupy nebudú povolené a že pri iných vstupoch užívateľ dostane zobrazenú chybovú hlášku. Zároveň pri nesprávnom zadaní vstupov nebude umožnená ďalšia funkcionalita.
